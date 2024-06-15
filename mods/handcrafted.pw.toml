@@ -1,0 +1,13 @@
+name = "Handcrafted"
+filename = "handcrafted-neoforge-1.20.4-3.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pJmCFF0p/versions/zwBvws3E/handcrafted-neoforge-1.20.4-3.2.1.jar"
+hash-format = "sha1"
+hash = "98aee7479fb50876bf7023f312967bae645e4304"
+
+[update]
+[update.modrinth]
+mod-id = "pJmCFF0p"
+version = "zwBvws3E"

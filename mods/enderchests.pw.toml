@@ -1,0 +1,13 @@
+name = "EnderChests"
+filename = "enderchests-neoforge-1.20.4-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gxSiDoVF/versions/X8O1Ezft/enderchests-neoforge-1.20.4-1.2.jar"
+hash-format = "sha1"
+hash = "f3e7d4951ed32252ae6ae26bf4e4498168d88329"
+
+[update]
+[update.modrinth]
+mod-id = "gxSiDoVF"
+version = "X8O1Ezft"

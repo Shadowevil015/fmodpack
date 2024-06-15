@@ -1,0 +1,13 @@
+name = "Diagonal Windows"
+filename = "DiagonalWindows-v20.4.1-1.20.4-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oOi0CKes/versions/D3Majojm/DiagonalWindows-v20.4.1-1.20.4-NeoForge.jar"
+hash-format = "sha1"
+hash = "8bb807df5ba526354b425ee14fd32f69f5308c18"
+
+[update]
+[update.modrinth]
+mod-id = "oOi0CKes"
+version = "D3Majojm"

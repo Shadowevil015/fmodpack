@@ -1,0 +1,13 @@
+name = "Chipped"
+filename = "Chipped-neoforge-1.20.4-3.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BAscRYKm/versions/Bm85fO08/Chipped-neoforge-1.20.4-3.1.4.jar"
+hash-format = "sha1"
+hash = "3c2bd3a74210792c28142c77784e9d5b5f60e45c"
+
+[update]
+[update.modrinth]
+mod-id = "BAscRYKm"
+version = "Bm85fO08"

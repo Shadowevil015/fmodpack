@@ -1,0 +1,13 @@
+name = "Universal Bone Meal"
+filename = "UniversalBoneMeal-v20.4.2-1.20.4-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/66VIiT1y/versions/IoEv8x7w/UniversalBoneMeal-v20.4.2-1.20.4-NeoForge.jar"
+hash-format = "sha1"
+hash = "f302a3de5d883604f4c6158d35ae1ab536dc79fe"
+
+[update]
+[update.modrinth]
+mod-id = "66VIiT1y"
+version = "IoEv8x7w"

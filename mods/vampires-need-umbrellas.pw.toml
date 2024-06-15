@@ -1,0 +1,13 @@
+name = "Vampires Need Umbrellas"
+filename = "VampiresNeedUmbrellas-1.20.4-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FaUysFni/versions/jwQiMxn9/VampiresNeedUmbrellas-1.20.4-1.0.jar"
+hash-format = "sha1"
+hash = "5e6c4dc02b0a4e9d8e9e009b782fd891299e17a3"
+
+[update]
+[update.modrinth]
+mod-id = "FaUysFni"
+version = "jwQiMxn9"

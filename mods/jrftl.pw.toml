@@ -1,0 +1,13 @@
+name = "Just Another Rotten Flesh to Leather Mod"
+filename = "jrftl-1.20.4-neoforge-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8nIicBYu/versions/cwV3RBDF/jrftl-1.20.4-neoforge-1.7.2.jar"
+hash-format = "sha1"
+hash = "6f40743b1921dd852fca9da571313fabd9a93f4d"
+
+[update]
+[update.modrinth]
+mod-id = "8nIicBYu"
+version = "cwV3RBDF"

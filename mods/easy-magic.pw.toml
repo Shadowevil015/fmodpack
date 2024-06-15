@@ -1,0 +1,13 @@
+name = "Easy Magic"
+filename = "EasyMagic-v20.4.0-1.20.4-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9hx3AbJM/versions/ApzhLylX/EasyMagic-v20.4.0-1.20.4-NeoForge.jar"
+hash-format = "sha1"
+hash = "973bac97f2f598dc7ccf7592616db889fb257cd5"
+
+[update]
+[update.modrinth]
+mod-id = "9hx3AbJM"
+version = "ApzhLylX"

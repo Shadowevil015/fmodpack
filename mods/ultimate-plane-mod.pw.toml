@@ -1,0 +1,13 @@
+name = "Ultimate Plane Mod"
+filename = "plane-neoforge-1.20.4-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qLDTK94S/versions/L1MHDHAO/plane-neoforge-1.20.4-1.0.8.jar"
+hash-format = "sha1"
+hash = "d1ffa1ab7c4c75137f268a7d39ef34f46c7c887c"
+
+[update]
+[update.modrinth]
+mod-id = "qLDTK94S"
+version = "L1MHDHAO"

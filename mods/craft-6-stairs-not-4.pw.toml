@@ -1,0 +1,13 @@
+name = "Craft 6 stairs instead of 4"
+filename = "sixstairs-1.20.4-0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dH2sUbfX/versions/D2d3fYQl/sixstairs-1.20.4-0-neoforge.jar"
+hash-format = "sha1"
+hash = "3eeb702dd7c64d4be110f03037cf0047ea5b72db"
+
+[update]
+[update.modrinth]
+mod-id = "dH2sUbfX"
+version = "D2d3fYQl"

@@ -1,0 +1,13 @@
+name = "Camera Mod"
+filename = "camera-neoforge-1.20.4-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oiuNWinn/versions/LlvkB5GN/camera-neoforge-1.20.4-1.0.9.jar"
+hash-format = "sha1"
+hash = "f0a538d5c811ee6524f1acfb915057f0faaef919"
+
+[update]
+[update.modrinth]
+mod-id = "oiuNWinn"
+version = "LlvkB5GN"

@@ -1,0 +1,13 @@
+name = "Ash API"
+filename = "ash_api-neoforge-20.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q8xUICr6/versions/UEqiufI4/ash_api-neoforge-20.4.0.jar"
+hash-format = "sha1"
+hash = "a2806bf5ad9cc605c45876f84ea7605e2b698ca7"
+
+[update]
+[update.modrinth]
+mod-id = "Q8xUICr6"
+version = "UEqiufI4"

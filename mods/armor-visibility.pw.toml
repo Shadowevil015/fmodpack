@@ -1,0 +1,13 @@
+name = "Armor Visibility"
+filename = "armor_visibility-neoforge-20.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kvPlmCLX/versions/6caMDMAT/armor_visibility-neoforge-20.4.1.jar"
+hash-format = "sha1"
+hash = "df88b9e4c1d6554450ac42227a76d7a7e9a79653"
+
+[update]
+[update.modrinth]
+mod-id = "kvPlmCLX"
+version = "6caMDMAT"

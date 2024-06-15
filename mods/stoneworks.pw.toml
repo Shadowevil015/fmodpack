@@ -1,0 +1,13 @@
+name = "Stoneworks"
+filename = "Stoneworks-v20.4.0-1.20.4-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FzyTKtVF/versions/4zyDoLOG/Stoneworks-v20.4.0-1.20.4-NeoForge.jar"
+hash-format = "sha1"
+hash = "c4ead085e6d1966120cb57798640240d440e4a23"
+
+[update]
+[update.modrinth]
+mod-id = "FzyTKtVF"
+version = "4zyDoLOG"

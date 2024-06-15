@@ -1,0 +1,13 @@
+name = "Horizontal Glass Panes"
+filename = "horizontal_glass_panes-1.20.4-neoforge-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jdwaIe52/versions/s9Y1UH6Q/horizontal_glass_panes-1.20.4-neoforge-2.0.0.jar"
+hash-format = "sha1"
+hash = "293fbea2497817a3b3a154d910a426288faa66ca"
+
+[update]
+[update.modrinth]
+mod-id = "jdwaIe52"
+version = "s9Y1UH6Q"

@@ -1,0 +1,13 @@
+name = "Enchantment Descriptions"
+filename = "EnchantmentDescriptions-NeoForge-1.20.4-20.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/S2pLtTZP/EnchantmentDescriptions-NeoForge-1.20.4-20.0.4.jar"
+hash-format = "sha1"
+hash = "daf73b8f732b4eaf72e63b27584bb4e37934b355"
+
+[update]
+[update.modrinth]
+mod-id = "UVtY3ZAC"
+version = "S2pLtTZP"

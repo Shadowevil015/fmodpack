@@ -1,0 +1,13 @@
+name = "What The Bucket"
+filename = "WhatTheBucket-NeoForge-1.20.4-14.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zUxYvzMP/versions/Dwov04Ws/WhatTheBucket-NeoForge-1.20.4-14.0.2.jar"
+hash-format = "sha1"
+hash = "83dd28dc412b152adf829b580976a8cbc22c4b75"
+
+[update]
+[update.modrinth]
+mod-id = "zUxYvzMP"
+version = "Dwov04Ws"

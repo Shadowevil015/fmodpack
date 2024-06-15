@@ -1,0 +1,13 @@
+name = "Duckling"
+filename = "duckling-neoforge-1.20.4-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jkb861Ih/versions/IwtFizop/duckling-neoforge-1.20.4-4.0.0.jar"
+hash-format = "sha1"
+hash = "fa80e26610c8ce5b731224845d5518bd6bc94558"
+
+[update]
+[update.modrinth]
+mod-id = "jkb861Ih"
+version = "IwtFizop"

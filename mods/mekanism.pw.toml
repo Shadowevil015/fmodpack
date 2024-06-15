@@ -1,0 +1,13 @@
+name = "Mekanism"
+filename = "Mekanism-1.20.4-10.5.20.41.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ce6I4WUE/versions/CzRJjYwn/Mekanism-1.20.4-10.5.20.41.jar"
+hash-format = "sha1"
+hash = "3314a790a8d4b7c11fb4a2093fb382bb4b97dfcc"
+
+[update]
+[update.modrinth]
+mod-id = "Ce6I4WUE"
+version = "CzRJjYwn"

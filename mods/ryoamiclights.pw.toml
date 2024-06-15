@@ -1,0 +1,13 @@
+name = "RyoamicLights"
+filename = "RyoamicLights-neoforge-0.2.5+mc1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/reCfnRvJ/versions/tO1MiEO4/RyoamicLights-neoforge-0.2.5%2Bmc1.20.4.jar"
+hash-format = "sha1"
+hash = "8f1a7567e0709e9cde76f696fa28a91b90a4c697"
+
+[update]
+[update.modrinth]
+mod-id = "reCfnRvJ"
+version = "tO1MiEO4"

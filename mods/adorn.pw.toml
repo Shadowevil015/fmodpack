@@ -1,0 +1,13 @@
+name = "Adorn"
+filename = "Adorn-5.3.0+1.20.4-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E6FUtRJh/versions/Uk5XJvV6/Adorn-5.3.0%2B1.20.4-neoforge.jar"
+hash-format = "sha1"
+hash = "931173334453f3bcab9120c812fa4ff0634911fa"
+
+[update]
+[update.modrinth]
+mod-id = "E6FUtRJh"
+version = "Uk5XJvV6"

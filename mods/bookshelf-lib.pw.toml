@@ -1,0 +1,13 @@
+name = "Bookshelf"
+filename = "Bookshelf-NeoForge-1.20.4-23.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uy4Cnpcm/versions/GE5otVe5/Bookshelf-NeoForge-1.20.4-23.0.8.jar"
+hash-format = "sha1"
+hash = "fb5b7e73152e31ad187a25e006efce5ac5730a08"
+
+[update]
+[update.modrinth]
+mod-id = "uy4Cnpcm"
+version = "GE5otVe5"

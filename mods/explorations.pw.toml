@@ -1,0 +1,13 @@
+name = "Explorations"
+filename = "explorations-neoforge-1.20.4-1.5.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pcGnjJ39/versions/3rffLJls/explorations-neoforge-1.20.4-1.5.3.jar"
+hash-format = "sha1"
+hash = "ab4efa0fff0383605948622270f294d0cc8fb40e"
+
+[update]
+[update.modrinth]
+mod-id = "pcGnjJ39"
+version = "3rffLJls"

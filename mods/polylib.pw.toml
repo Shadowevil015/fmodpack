@@ -1,0 +1,13 @@
+name = "PolyLib"
+filename = "polylib-2004.0.3-build.141-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c47a1fbebbc821e9ed2305d859e06784af986764"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5329561
+project-id = 576589

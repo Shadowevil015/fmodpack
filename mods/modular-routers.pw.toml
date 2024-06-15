@@ -1,0 +1,13 @@
+name = "Modular Routers"
+filename = "modular-routers-12.3.3+mc1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EuTS81Z3/versions/ykbzqEAJ/modular-routers-12.3.3%2Bmc1.20.4.jar"
+hash-format = "sha1"
+hash = "450d1c55ac3e6f55e7247590efe53e301ad098de"
+
+[update]
+[update.modrinth]
+mod-id = "EuTS81Z3"
+version = "ykbzqEAJ"

@@ -1,0 +1,13 @@
+name = "Pipez"
+filename = "pipez-neoforge-1.20.4-1.2.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iRmWy6ga/versions/UaXcrZ8H/pipez-neoforge-1.20.4-1.2.12.jar"
+hash-format = "sha1"
+hash = "c161abdf0a7f82a856deca7d6fccc2bbdfd4071d"
+
+[update]
+[update.modrinth]
+mod-id = "iRmWy6ga"
+version = "UaXcrZ8H"

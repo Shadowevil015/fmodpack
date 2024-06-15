@@ -1,0 +1,13 @@
+name = "Xaero's World Map"
+filename = "XaerosWorldMap_1.38.8_NeoForge_1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/crPAx75v/XaerosWorldMap_1.38.8_NeoForge_1.20.4.jar"
+hash-format = "sha1"
+hash = "8ed1b18647f5ad8f89e1b7453c4e8c0f94e75b30"
+
+[update]
+[update.modrinth]
+mod-id = "NcUtCpym"
+version = "crPAx75v"

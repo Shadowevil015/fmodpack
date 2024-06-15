@@ -1,0 +1,13 @@
+name = "Torch hit!"
+filename = "torchhit-1.20.4-6.0.2.0-neoforge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/zTOq9jEI/versions/9JLU3ATF/torchhit-1.20.4-6.0.2.0-neoforge.jar"
+hash-format = "sha1"
+hash = "fa3c4ca9f6784f1cefdbddb34de4045f01984bff"
+
+[update]
+[update.modrinth]
+mod-id = "zTOq9jEI"
+version = "9JLU3ATF"

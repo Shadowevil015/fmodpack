@@ -1,0 +1,13 @@
+name = "Day Counter"
+filename = "day_counter_v3.8_1.20.4_[NEOFORGE].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rvq6KsSD/versions/7C9ih8Du/day_counter_v3.8_1.20.4_%5BNEOFORGE%5D.jar"
+hash-format = "sha1"
+hash = "f5e0a2a18424457620e2db601e76adb32d46eeb0"
+
+[update]
+[update.modrinth]
+mod-id = "rvq6KsSD"
+version = "7C9ih8Du"

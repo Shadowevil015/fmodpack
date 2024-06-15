@@ -1,0 +1,13 @@
+name = "Load My F***ing Tags"
+filename = "lmft-1.0.4+1.20.4-neoforge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/67kVxsaO/versions/3lVpp3ss/lmft-1.0.4%2B1.20.4-neoforge.jar"
+hash-format = "sha1"
+hash = "7ea511c804fe19c173c1764cc2c57aef291ff04d"
+
+[update]
+[update.modrinth]
+mod-id = "67kVxsaO"
+version = "3lVpp3ss"

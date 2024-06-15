@@ -1,0 +1,13 @@
+name = "Botany Trees"
+filename = "BotanyTrees-NeoForge-1.20.4-12.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mvs7RoIW/versions/Hn5lT1y8/BotanyTrees-NeoForge-1.20.4-12.0.3.jar"
+hash-format = "sha1"
+hash = "85203f3fa6fd73f7dad3f707ed4225f7db55e92b"
+
+[update]
+[update.modrinth]
+mod-id = "mvs7RoIW"
+version = "Hn5lT1y8"

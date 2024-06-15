@@ -1,0 +1,13 @@
+name = "Waystones"
+filename = "waystones-neoforge-1.20.4-16.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LOpKHB2A/versions/rOTAiTFe/waystones-neoforge-1.20.4-16.0.5.jar"
+hash-format = "sha1"
+hash = "3a002eceb306014b6bfe7946219a9f5a5196444e"
+
+[update]
+[update.modrinth]
+mod-id = "LOpKHB2A"
+version = "rOTAiTFe"

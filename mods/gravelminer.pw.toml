@@ -1,0 +1,13 @@
+name = "GravelMiner"
+filename = "gravelminer-neoforge-1.20.4-18.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iAzrhsju/versions/Yd0o7UsX/gravelminer-neoforge-1.20.4-18.0.1.jar"
+hash-format = "sha1"
+hash = "ef1f59c710e81b8433f0c476986401dec5300f6c"
+
+[update]
+[update.modrinth]
+mod-id = "iAzrhsju"
+version = "Yd0o7UsX"

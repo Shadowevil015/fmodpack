@@ -1,0 +1,13 @@
+name = "ObsidianUI"
+filename = "ObsidianUI-neoforge-0.2.4+mc1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/E0L8mfJZ/versions/fiDnb9vk/ObsidianUI-neoforge-0.2.4%2Bmc1.20.4.jar"
+hash-format = "sha1"
+hash = "d552e8fe3b80297a0483107f6138782d3c8cf7c5"
+
+[update]
+[update.modrinth]
+mod-id = "E0L8mfJZ"
+version = "fiDnb9vk"

@@ -1,0 +1,13 @@
+name = "EnderTanks"
+filename = "endertanks-neoforge-1.20.4-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zZwEA08D/versions/ikc669T8/endertanks-neoforge-1.20.4-1.3.jar"
+hash-format = "sha1"
+hash = "ddf006a6a7670aa900414ece6de4e05368a8825f"
+
+[update]
+[update.modrinth]
+mod-id = "zZwEA08D"
+version = "ikc669T8"

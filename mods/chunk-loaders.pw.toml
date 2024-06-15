@@ -1,0 +1,13 @@
+name = "Chunk Loaders"
+filename = "chunkloaders-1.2.8-neoforge-mc1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t1VgucWo/versions/Dqxwau0G/chunkloaders-1.2.8-neoforge-mc1.20.4.jar"
+hash-format = "sha1"
+hash = "1d79bab133bf819b27af2f122a417efab0295423"
+
+[update]
+[update.modrinth]
+mod-id = "t1VgucWo"
+version = "Dqxwau0G"

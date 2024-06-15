@@ -1,0 +1,13 @@
+name = "AgriCraft"
+filename = "AgriCraft-neoforge-1.20.4-4.0.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cMppH5SJ/versions/dcR3BzMo/AgriCraft-neoforge-1.20.4-4.0.0-beta.jar"
+hash-format = "sha1"
+hash = "64ec5a2a630086771d5cc45abf3280e090cbe568"
+
+[update]
+[update.modrinth]
+mod-id = "cMppH5SJ"
+version = "dcR3BzMo"

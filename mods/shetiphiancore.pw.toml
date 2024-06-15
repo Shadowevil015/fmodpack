@@ -1,0 +1,13 @@
+name = "ShetiPhianCore"
+filename = "shetiphiancore-neoforge-1.20.4-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oX7uP2kS/versions/lewyKZPR/shetiphiancore-neoforge-1.20.4-1.3.jar"
+hash-format = "sha1"
+hash = "f34f446599c74de3c8584451654b42b67abc2aba"
+
+[update]
+[update.modrinth]
+mod-id = "oX7uP2kS"
+version = "lewyKZPR"

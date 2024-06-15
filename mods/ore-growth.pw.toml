@@ -1,0 +1,13 @@
+name = "Ore Growth"
+filename = "oregrowth-1.0.11-neoforge-mc1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/psKAO98W/versions/in1C3u4o/oregrowth-1.0.11-neoforge-mc1.20.4.jar"
+hash-format = "sha1"
+hash = "a9334695e6fb3548e0029a2129275bf233294baf"
+
+[update]
+[update.modrinth]
+mod-id = "psKAO98W"
+version = "in1C3u4o"

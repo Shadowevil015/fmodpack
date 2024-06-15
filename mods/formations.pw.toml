@@ -1,0 +1,13 @@
+name = "Formations (Structure Library)"
+filename = "formations-1.0.2-neoforge-mc1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tPe4xnPd/versions/cQW6vymc/formations-1.0.2-neoforge-mc1.20.4.jar"
+hash-format = "sha1"
+hash = "a29d1d39673056f7b0716d778b34257916f64c4e"
+
+[update]
+[update.modrinth]
+mod-id = "tPe4xnPd"
+version = "cQW6vymc"

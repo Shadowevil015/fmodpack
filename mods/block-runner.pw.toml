@@ -1,0 +1,13 @@
+name = "Block Runner"
+filename = "BlockRunner-v20.4.1-1.20.4-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1VSGxqkt/versions/xHSSVQ0d/BlockRunner-v20.4.1-1.20.4-NeoForge.jar"
+hash-format = "sha1"
+hash = "d6a0244a33fa4283d0a2a7027afd36460a3cf919"
+
+[update]
+[update.modrinth]
+mod-id = "1VSGxqkt"
+version = "xHSSVQ0d"

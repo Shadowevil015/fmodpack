@@ -1,0 +1,13 @@
+name = "More Music Discs"
+filename = "morediscs-1.20.4-0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pXYChc1a/versions/8WSOe5w4/morediscs-1.20.4-0-neoforge.jar"
+hash-format = "sha1"
+hash = "cc92596db40f7b077ed825d5ad59cae1114c2bcf"
+
+[update]
+[update.modrinth]
+mod-id = "pXYChc1a"
+version = "8WSOe5w4"

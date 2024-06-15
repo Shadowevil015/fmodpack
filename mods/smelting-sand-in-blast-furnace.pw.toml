@@ -1,0 +1,13 @@
+name = "Smelting Sand in Blast Furnace"
+filename = "smeltingsand-1.20.4-0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GhemPlCv/versions/O0VNjkPe/smeltingsand-1.20.4-0-neoforge.jar"
+hash-format = "sha1"
+hash = "2f9a64f5d465840b529905050d27ce9d39c4b89e"
+
+[update]
+[update.modrinth]
+mod-id = "GhemPlCv"
+version = "O0VNjkPe"
