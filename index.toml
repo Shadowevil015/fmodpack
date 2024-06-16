@@ -667,11 +667,6 @@ hash = "3f8ea7885ce71efa1eac7ef8cbc6da779f9923c1bc549985a15ab4cced6b8265"
 metafile = true
 
 [[files]]
-file = "mods/remote-player-waypoints-for-xaeros-map.pw.toml"
-hash = "dd9d9a1eb01702723bfd3336d7ac53f09ebe3201aa9d4d97ba0b62eee076425e"
-metafile = true
-
-[[files]]
 file = "mods/repurposed-structures-forge.pw.toml"
 hash = "58866e096d176587e6d477fa62e25b0f5dd027423332a5e7eb5a0bddd13d830a"
 metafile = true
