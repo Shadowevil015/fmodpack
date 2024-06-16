@@ -41,11 +41,6 @@ hash = "23c4ee257a8f06b267d3579b0750d1483422dd78a53fd75070087972fc21d99a"
 metafile = true
 
 [[files]]
-file = "mods/agricraft.pw.toml"
-hash = "2be83bcce1d189dc113e37e1f9dd7cc81db1cf9c7a742bd89f9c0bcf7a288b5f"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "67998baccbc261672bd123de66e571487d6a457455cd2a4dac052d4dcf084eef"
 metafile = true
@@ -53,11 +48,6 @@ metafile = true
 [[files]]
 file = "mods/always-a-wither-skull.pw.toml"
 hash = "249355d1c0f66d456eff6f47124604c6bc4038ac92d078149f1ef7c7c162e661"
-metafile = true
-
-[[files]]
-file = "mods/animal_feeding_trough.pw.toml"
-hash = "fefde3b36219a3eaacafabb0fdea74feaf6ccca8117a0cdbd89f3f9dae4cca87"
 metafile = true
 
 [[files]]
@@ -388,11 +378,6 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "e0cdfc35bd027accc7068c85a08941bc73dbaec7f90ef01dba1b59826d658623"
-metafile = true
-
-[[files]]
-file = "mods/hammer-lib.pw.toml"
-hash = "5c2bb9269bd584b4623fadee15826fba74e7b2337db727c5b3a10e51ce944749"
 metafile = true
 
 [[files]]
@@ -777,11 +762,6 @@ hash = "3e35083352ddce5ec71ca78eefb75dbb4918ef4ff4d594092e4c411b013ca4d5"
 metafile = true
 
 [[files]]
-file = "mods/solar-flux-reborn.pw.toml"
-hash = "0f78ff5f9ad0bc533199febb5c4ce5fc92d6fde8b1ab9aa61ff4516123899962"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "792c54271b8288f55971d89d85de87fdaf8d57339fd7c27fdc154cbef9ca2e44"
 metafile = true
@@ -834,11 +814,6 @@ metafile = true
 [[files]]
 file = "mods/the-undergarden.pw.toml"
 hash = "abbfe54b1b75ee36c8bb459ab5dcd3cbde3af20e3f62eb011e31153a0b159360"
-metafile = true
-
-[[files]]
-file = "mods/torch-hit.pw.toml"
-hash = "8c73512f32c029340b119554d10aa501c398a05e41fd0fd4e87a3953e0fdc526"
 metafile = true
 
 [[files]]
