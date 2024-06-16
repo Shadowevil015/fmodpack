@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravelminer.pw.toml"
-hash = "9413dd6ce383e24accc56be955d5166125b6d3135cd0c61c9b38bcd1f10cde99"
+hash = "65583db9c90fc57f0c9cf3f74d5ff8509ff10bb417b7568748637e89c4b55b10"
 metafile = true
 
 [[files]]
