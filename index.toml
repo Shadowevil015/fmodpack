@@ -131,11 +131,6 @@ hash = "fa66744d8e62b4bb06f8a8f2fb899681906f8702b2731efd7fe0d5e18fd158c1"
 metafile = true
 
 [[files]]
-file = "mods/better-deepslate-ore-drops.pw.toml"
-hash = "74f43ae35991fdb95fa0f5956f806a4da32dc4eda32360d7ca10143140b27573"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "0e2c55bf02080d8e83588c768dfb2ffa10da40143a4737fb73c241be4825af38"
 metafile = true
@@ -268,11 +263,6 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "c805fb079179779b5a8d5f48605542810d96da243ed13fb9e1be1eb682f56dc1"
-metafile = true
-
-[[files]]
-file = "mods/duckling.pw.toml"
-hash = "3a42903c476ae1d8d64ffb5ca726fac8e9f0209b6ce3539106c68d3b3d685857"
 metafile = true
 
 [[files]]
@@ -576,11 +566,6 @@ hash = "37de93baa2122dcda8236bbd69c456df53a3cd6981c428bed204e540aaec22f1"
 metafile = true
 
 [[files]]
-file = "mods/moogs-voyager-structures.pw.toml"
-hash = "16a1eec40d186d4b7ad57d507a615b66b06ca58c6a10d54cddd86c9236c5eb67"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "4d21251d5f6df31b13581d0bcdf73e0f7be0db93ea3493fdc840ad5d71d799f8"
 metafile = true
@@ -588,11 +573,6 @@ metafile = true
 [[files]]
 file = "mods/more-music-discs.pw.toml"
 hash = "73cb5bd29f632a55c57d1ca80f4a069502bcf5eb33d72f7c845be5d2ce19ccb2"
-metafile = true
-
-[[files]]
-file = "mods/movable-spawners.pw.toml"
-hash = "078f77f68de764aa6cdd99d0f15d056e93849f82382af121c262205018d0adaa"
 metafile = true
 
 [[files]]
@@ -859,11 +839,6 @@ metafile = true
 [[files]]
 file = "mods/torch-hit.pw.toml"
 hash = "8c73512f32c029340b119554d10aa501c398a05e41fd0fd4e87a3953e0fdc526"
-metafile = true
-
-[[files]]
-file = "mods/totw-modded.pw.toml"
-hash = "cc4d196949d893071f261e939501ca8c7a79ba8ced3d790ce98d25e4f207bca3"
 metafile = true
 
 [[files]]
