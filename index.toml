@@ -957,11 +957,6 @@ hash = "441cadb3ff6e4ece9095b6dc856b744be6279d989e21aebd74d67b7eb947a678"
 metafile = true
 
 [[files]]
-file = "mods/xp-tome.pw.toml"
-hash = "56d47b807431bbc86ae71c5daaefd4708807f6a973a0c76150ee2e96bdafc6e5"
-metafile = true
-
-[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "627893be3345afff9389ea695eec77155c6ec944aac123d8a3bfb01d2fd03111"
 metafile = true
