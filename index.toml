@@ -687,11 +687,6 @@ hash = "940c6689f890f5975779ec68675c71c7887ba9c6ce4d5608c7781f1df6754a2a"
 metafile = true
 
 [[files]]
-file = "mods/runology.pw.toml"
-hash = "24c322bfd003d50c96c0edd6775ccc53fe3afdc3ab765290a5301ee6419cf1ae"
-metafile = true
-
-[[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "0dc98d4b83a176b06163af46ebfa8bba22077550352ffd219b04ab4c9fcbfab5"
 metafile = true
