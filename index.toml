@@ -431,11 +431,6 @@ hash = "8b919d59a36d8c13df5737585c1cf3a3f191e529457e7515b2ee1e0ba769501d"
 metafile = true
 
 [[files]]
-file = "mods/jrftl.pw.toml"
-hash = "820c9fd56daaa08735299e43dbf1bebc429e6eaa7c18394e5f79ea5aa8e12c46"
-metafile = true
-
-[[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "403bb6d48b29db8011377512404ed9e7c71c10140ba179501c1e36d9cb390efa"
 metafile = true
@@ -674,6 +669,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "e5ad710fd45f0f9fa2c715eddca4500cf067550a60f1bba4619ed84939922bad"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-server-component.pw.toml"
+hash = "8673e7768339e12225f47c488b08ddef40f24cd7d3455580ef1eaa1a97d23c8c"
 metafile = true
 
 [[files]]
