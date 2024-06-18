@@ -431,11 +431,6 @@ hash = "8b919d59a36d8c13df5737585c1cf3a3f191e529457e7515b2ee1e0ba769501d"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "ccd1a066f5e05d5ea62369b28583407c23354b4f11c8053c928faf99b063162a"
-metafile = true
-
-[[files]]
 file = "mods/jrftl.pw.toml"
 hash = "820c9fd56daaa08735299e43dbf1bebc429e6eaa7c18394e5f79ea5aa8e12c46"
 metafile = true
@@ -443,16 +438,6 @@ metafile = true
 [[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "403bb6d48b29db8011377512404ed9e7c71c10140ba179501c1e36d9cb390efa"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-mekanism-multiblocks.pw.toml"
-hash = "a3b93844ef3769b3594f580e304f97d7f032196c3aee95d15b7d73a1b7d47b9d"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "5672f9aeb0fc629183901f6562300e176e4e335913b0881db9baf5bcddaa5375"
 metafile = true
 
 [[files]]
@@ -664,6 +649,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "3f8ea7885ce71efa1eac7ef8cbc6da779f9923c1bc549985a15ab4cced6b8265"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "9e45d729fcfefeda6485c24193134180f041c2deab2f4029ccf8c558c0b9ba5a"
 metafile = true
 
 [[files]]
