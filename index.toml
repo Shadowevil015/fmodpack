@@ -431,6 +431,11 @@ hash = "8b919d59a36d8c13df5737585c1cf3a3f191e529457e7515b2ee1e0ba769501d"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "094204a572c59fc2b6267a2defa41b4dd33446e1ff96aaffd6834fba22cf6e4c"
+metafile = true
+
+[[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "403bb6d48b29db8011377512404ed9e7c71c10140ba179501c1e36d9cb390efa"
 metafile = true
@@ -644,11 +649,6 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "3f8ea7885ce71efa1eac7ef8cbc6da779f9923c1bc549985a15ab4cced6b8265"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "9e45d729fcfefeda6485c24193134180f041c2deab2f4029ccf8c558c0b9ba5a"
 metafile = true
 
 [[files]]
