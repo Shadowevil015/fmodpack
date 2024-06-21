@@ -652,6 +652,11 @@ hash = "3f8ea7885ce71efa1eac7ef8cbc6da779f9923c1bc549985a15ab4cced6b8265"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "9e45d729fcfefeda6485c24193134180f041c2deab2f4029ccf8c558c0b9ba5a"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-forge.pw.toml"
 hash = "58866e096d176587e6d477fa62e25b0f5dd027423332a5e7eb5a0bddd13d830a"
 metafile = true
